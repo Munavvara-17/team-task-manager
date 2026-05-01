@@ -1,34 +1,34 @@
-# 🚀 Team Task Manager
+#  Team Task Manager
 
 A full-stack web application to manage tasks, track progress, and collaborate within teams — inspired by tools like Trello and Asana.
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔐 Authentication
+###  Authentication
 
 * User Signup & Login
 * Secure authentication using JWT
 
-### 📁 Project Management
+###  Project Management
 
 * Create projects
 * Assign users to projects
 * Admin-based control system
 
-### ✅ Task Management
+###  Task Management
 
 * Create tasks with title, description, priority
 * Assign tasks to users
 * Update task status:
 
-  * 📝 To Do
-  * 🔄 In Progress
-  * ✅ Done
-* Delete tasks
+  *  To Do
+  *  In Progress
+  *  Done
+  * Delete tasks
 
-### 📊 Dashboard
+###  Dashboard
 
 * Total tasks count
 * Tasks by status
@@ -36,7 +36,7 @@ A full-stack web application to manage tasks, track progress, and collaborate wi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer    | Technology        |
 | -------- | ----------------- |
@@ -48,7 +48,7 @@ A full-stack web application to manage tasks, track progress, and collaborate wi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 team-task-manager/
@@ -69,9 +69,9 @@ team-task-manager/
 
 ---
 
-## ⚙️ Run Locally
+##  Run Locally
 
-### 🔹 Backend
+###  Backend
 
 ```
 cd backend
@@ -87,7 +87,7 @@ http://localhost:5000
 
 ---
 
-### 🔹 Frontend
+###  Frontend
 
 ```
 cd frontend
@@ -103,7 +103,7 @@ http://localhost:5173
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 Create `.env` in backend:
 
@@ -113,7 +113,7 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 * Backend deployed on Railway
 * Frontend deployed on Vercel / Netlify
@@ -122,25 +122,25 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## 🎥 Demo
+##  Demo
 
 *(Add your demo video link here)*
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 *(Add dashboard screenshot here)*
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Munavvara Nayab**
 
 ---
 
-## ⭐ Final Note
+##  Final Note
 
 This project demonstrates full-stack development skills including:
 
